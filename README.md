@@ -1,4 +1,4 @@
-# PCAEigenfaces
+# PCA Eigenfaces
 A translation of Prof. Haddock's MATLAB code that performs PCA dimension reduction to compress facial images
 
 There are a few things of note when going from MATLAB to Python 
